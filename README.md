@@ -1,8 +1,8 @@
-# The Amazing Rainbow Cow of Wisdom!
+# the amazing rainbow cow of wisdom! :O
 
-A fortune-telling rainbow cow is waiting for you in your terminal... Why not pay him a visit?
+a fortune-telling rainbow cow is waiting for you in your terminal... why not pay him a visit?
 
-# Dependencies
+# dependencies :3
 
 _fortune_
 
@@ -10,10 +10,10 @@ _cowsay_
 
 _lolcat_
 
-# Run
+# run :P
 
-Just download the bash script and run it in your terminal!
+just download the bash script and run it in your terminal!
 
 ```./TARCOW.sh```
 
-_The cow has spoken..._
+_the cow has spoken..._
