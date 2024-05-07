@@ -1,11 +1,13 @@
 # The Amazing Rainbow Cow of Wisdom!
 
-A fortune-telling rainbow cow is waiting for you in your terminal... Why not pay a visit?
+A fortune-telling rainbow cow is waiting for you in your terminal... Why not pay him a visit?
 
 # Dependencies
 
 _fortune_
+
 _cowsay_
+
 _lolcat_
 
 # Run
